@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/MariyaGrishkova/creditvalidator/issues/1#issue-733781903 
+* [Номера карт American Express не распознаются как валидные](https://github.com/MariyaGrishkova/creditvalidator/issues/1#issue-733781903)
 
 # Описание процесса тестирования
 
